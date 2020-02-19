@@ -1,0 +1,26 @@
+.column {
+    border: black 0.25px solid;
+    padding: 0;
+    margin: none;
+    display: inline-block;
+}
+
+.column:hover {
+    background-color: black;
+}
+
+.row {
+    width: 100%;
+    margin: -2.5px;
+    padding: 0;
+    float: left;
+    clear: none;
+}
+
+body {
+    margin: 100px auto 0;
+}
+
+button {
+    margin-bottom: 5px;
+}
